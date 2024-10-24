@@ -12,9 +12,7 @@ This is a tutorial on how to implement SARndBox 2.6 no Ubuntu 16, originally fou
 - Vrui version 4.6 build 005 or newew --> https://arsandbox.ucdavis.edu/technical-resources/downloads/vrui-vr/ --> http://idav.ucdavis.edu/~okreylos/ResDev/Vrui/Vrui-4.6-005.tar.gz
 - Kinect 3D Video Capture Project version 3.7 or newer --> https://github.com/KeckCAVES/Kinect --> https://github.com/KeckCAVES/Kinect/archive/master.zip
 
-<video src='https://github.com/HumbertoDiego/SarndBoxExplorer/blob/master/output1.mp4' width=180/>
-
-<video src='output2.mp4' width=180/>
+https://github.com/user-attachments/assets/30c88169-b188-4f17-b7a1-fb88fe6c2282
 
 ## 1) Install VRUI
 
