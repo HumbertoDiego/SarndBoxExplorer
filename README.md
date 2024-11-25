@@ -1,6 +1,6 @@
 # SarndBoxExplorer
 
-This is a tutorial on how to implement SARndBox 2.6 no Ubuntu 16, originally found at https://arsandbox.ucdavis.edu, the files were saved and copied here just in case the project would become discontinued.
+This is a tutorial on how to implement SARndBox 2.6 no Ubuntu 16, originally found at https://arsandbox.ucdavis.edu (deprecated, now at https://web.cs.ucdavis.edu/~okreylos/ResDev/SARndbox), the files were saved and copied here just in case the project would become discontinued.
 
 ## Requirements:
 
