@@ -133,5 +133,5 @@ sudo make install
     - Assigning a color value to the various height values of the matrix elements, transforming them into pixels;
   - VR toolkit v4.6.5: Displays a window on the computer screen with the previously processed 3D model.
 - Then, this window is expanded to the projector’s view, which has the same framing and aspect ratio as the Kinect and the sandbox (3:4 or 75x100 cm).
-- 
+
 <img src="sardbox1.jpeg">
